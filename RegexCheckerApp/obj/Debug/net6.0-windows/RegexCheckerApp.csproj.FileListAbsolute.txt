@@ -1,0 +1,17 @@
+C:\Users\Amos.alagbe\source\repos\RegexCheckerApp\RegexCheckerApp\bin\Debug\net6.0-windows\RegexCheckerApp.exe
+C:\Users\Amos.alagbe\source\repos\RegexCheckerApp\RegexCheckerApp\bin\Debug\net6.0-windows\RegexCheckerApp.deps.json
+C:\Users\Amos.alagbe\source\repos\RegexCheckerApp\RegexCheckerApp\bin\Debug\net6.0-windows\RegexCheckerApp.runtimeconfig.json
+C:\Users\Amos.alagbe\source\repos\RegexCheckerApp\RegexCheckerApp\bin\Debug\net6.0-windows\RegexCheckerApp.dll
+C:\Users\Amos.alagbe\source\repos\RegexCheckerApp\RegexCheckerApp\bin\Debug\net6.0-windows\RegexCheckerApp.pdb
+C:\Users\Amos.alagbe\source\repos\RegexCheckerApp\RegexCheckerApp\obj\Debug\net6.0-windows\RegexCheckerApp.csproj.AssemblyReference.cache
+C:\Users\Amos.alagbe\source\repos\RegexCheckerApp\RegexCheckerApp\obj\Debug\net6.0-windows\RegexCheckerApp.Form1.resources
+C:\Users\Amos.alagbe\source\repos\RegexCheckerApp\RegexCheckerApp\obj\Debug\net6.0-windows\RegexCheckerApp.csproj.GenerateResource.cache
+C:\Users\Amos.alagbe\source\repos\RegexCheckerApp\RegexCheckerApp\obj\Debug\net6.0-windows\RegexCheckerApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Amos.alagbe\source\repos\RegexCheckerApp\RegexCheckerApp\obj\Debug\net6.0-windows\RegexCheckerApp.AssemblyInfoInputs.cache
+C:\Users\Amos.alagbe\source\repos\RegexCheckerApp\RegexCheckerApp\obj\Debug\net6.0-windows\RegexCheckerApp.AssemblyInfo.cs
+C:\Users\Amos.alagbe\source\repos\RegexCheckerApp\RegexCheckerApp\obj\Debug\net6.0-windows\RegexCheckerApp.csproj.CoreCompileInputs.cache
+C:\Users\Amos.alagbe\source\repos\RegexCheckerApp\RegexCheckerApp\obj\Debug\net6.0-windows\RegexCheckerApp.dll
+C:\Users\Amos.alagbe\source\repos\RegexCheckerApp\RegexCheckerApp\obj\Debug\net6.0-windows\refint\RegexCheckerApp.dll
+C:\Users\Amos.alagbe\source\repos\RegexCheckerApp\RegexCheckerApp\obj\Debug\net6.0-windows\RegexCheckerApp.pdb
+C:\Users\Amos.alagbe\source\repos\RegexCheckerApp\RegexCheckerApp\obj\Debug\net6.0-windows\RegexCheckerApp.genruntimeconfig.cache
+C:\Users\Amos.alagbe\source\repos\RegexCheckerApp\RegexCheckerApp\obj\Debug\net6.0-windows\ref\RegexCheckerApp.dll
